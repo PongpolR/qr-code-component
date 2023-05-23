@@ -1,1 +1,1 @@
-test
+This is qr code component repository
